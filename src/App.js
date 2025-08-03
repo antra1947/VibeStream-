@@ -114,7 +114,7 @@ function App() {
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline-light mt-4"
-                  href="https://github.com/Kousik1314/Interactive-Music-Streaming-Platform"
+                  href="https://github.com/antra1947/VibeStream-"
                 >
                   <i className="bi bi-github mx-2"></i>View on Github
                 </a>
